@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 
-<a href="https://t.me/mr_MKN"><img title="Telegram" src="https://img.shields.io/static/v1?label=Mr.MKN&message=TG&color=blue-green"></a>
+<a href="https://t.me/filesharingnewbot"><img title="Telegram" src="https://img.shields.io/static/v1?label=Mr.Appu&message=TG&color=blue-green"></a>
 
 <p align="left">
 
@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 
-• 𝙱𝚘𝚛𝚗 : 10𝚝𝚑 𝙼𝚊𝚛𝚌𝚑 2004 (𝚊𝚐𝚎 18)
+• 𝙱𝚘𝚛𝚗 : 1𝚝𝚑 𝙼ay 2009 (𝚊𝚐𝚎 13)
 
 <p align="left">
 
-• 𝙿𝚕𝚊𝚌𝚎 : 𝙺𝚊𝚗𝚗𝚞𝚛
+• 𝙿𝚕𝚊𝚌𝚎 : idukki 
 
 <p align="left">
 
@@ -40,17 +40,17 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left">
 
-• 𝚆𝚘𝚛𝚔 : 𝚂𝚝𝚞𝚍𝚢 𝙸𝚗 𝚍𝚎𝚐𝚛𝚎𝚎 1 𝚢𝚎𝚊𝚛
+• 𝚆𝚘𝚛𝚔 : 𝚂𝚝𝚞𝚍𝚢 𝙸𝚗 8th class
 
 <p align="left">
 
-- 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 𝚒𝚜 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 🔥
+- 𝙼𝚘𝚜𝚝 𝚊𝚌𝚝𝚒𝚟𝚎 in 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼,ff 🔥
 
 <p align="center">&nbsp;
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrMKN&&show_icons=true&theme=aura" alt="MrMKN"/></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=apputhan&&show_icons=true&theme=aura" alt="MrMKN"/></p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrMKN&layout=compact&theme=jolly" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apputhan&layout=compact&theme=jolly" align="center">
 
 <p align="center">
 
