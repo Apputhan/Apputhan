@@ -8,7 +8,7 @@
 Apputhan/Apputhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝗠𝗞𝗡'𝗦+𝗚𝗶𝘁𝗛𝘂𝗯!;𝗜𝗮𝗺+𝗠𝘂𝗵𝗮𝗺𝗺𝗲𝗱+𝗞+𝗡!;𝗜𝗮𝗺+𝗷𝘂𝘀𝘁+𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺+𝗕𝗼𝘁+𝗠𝗮𝗸𝗲𝗿!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+appu'𝗦+𝗚𝗶𝘁𝗛𝘂𝗯!;𝗜𝗮𝗺+appu!;𝗜𝗮𝗺+𝗷𝘂𝘀𝘁+𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺+𝗕𝗼𝘁+𝗠𝗮𝗸𝗲𝗿!)</p>
 
 <p align="center">
 
